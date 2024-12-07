@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOne", "DayOne\DayOne.csproj", "{C4D7501B-13A2-4CBC-8E0A-BC283D2F1DA9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayTwo", "DayTwo\DayTwo.csproj", "{7EF18EF0-60D1-4924-987D-C849654F5313}"
@@ -13,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Shared", "AdventOfCode.Shared\AdventOfCode.Shared.csproj", "{E4A87096-0587-4151-88E4-B760BDA1F731}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayFive", "DayFive\DayFive.csproj", "{8F90E770-C2B3-4ED8-81EE-117DF5AA1419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaySix", "DaySix\DaySix.csproj", "{D5FFE6E7-7FCA-4CBE-8FAA-6300850FCB79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +49,13 @@ Global
 		{8F90E770-C2B3-4ED8-81EE-117DF5AA1419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F90E770-C2B3-4ED8-81EE-117DF5AA1419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F90E770-C2B3-4ED8-81EE-117DF5AA1419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FFE6E7-7FCA-4CBE-8FAA-6300850FCB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FFE6E7-7FCA-4CBE-8FAA-6300850FCB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FFE6E7-7FCA-4CBE-8FAA-6300850FCB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FFE6E7-7FCA-4CBE-8FAA-6300850FCB79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E4A87096-0587-4151-88E4-B760BDA1F731} = {A6C79B1A-D4B8-4DCE-B903-796544FDE0B4}
